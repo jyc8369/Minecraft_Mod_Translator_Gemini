@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "repository": "Minecraft_Mod_Translator_Gemini",
+  "enabled": true,
+  "featured": true,
+  "order": 1,
+  "category": "AI Tool",
+  "summary": "",
+  "tags": [],
+  "demoUrl": "",
+  "coverImage": ""
+}
