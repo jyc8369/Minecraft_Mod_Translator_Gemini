@@ -1,10 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "repository": "Minecraft_Mod_Translator_Gemini",
   "enabled": true,
   "featured": true,
   "order": 1,
   "category": "AI Tool",
+  "title": "Minecraft Mod Translator",
   "summary": "Translate Minecraft mod language files with Gemini and export a translated JAR without modifying the original.",
   "tags": [
     "gemini",
@@ -12,6 +13,17 @@
     "translation",
     "desktop"
   ],
+  "status": "active",
+  "platforms": [
+    "Desktop"
+  ],
+  "highlights": [
+    "Scans JARs and folders",
+    "Gemini-powered translation",
+    "Exports a translated JAR"
+  ],
   "demoUrl": "",
-  "coverImage": ""
+  "downloadUrl": "https://github.com/jyc8369/Minecraft_Mod_Translator_Gemini/releases",
+  "coverImage": "",
+  "accent": "neutral"
 }
