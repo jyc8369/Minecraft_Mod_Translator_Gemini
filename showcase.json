@@ -5,8 +5,13 @@
   "featured": true,
   "order": 1,
   "category": "AI Tool",
-  "summary": "",
-  "tags": [],
+  "summary": "Translate Minecraft mod language files with Gemini and export a translated JAR without modifying the original.",
+  "tags": [
+    "gemini",
+    "minecraft",
+    "translation",
+    "desktop"
+  ],
   "demoUrl": "",
   "coverImage": ""
 }
